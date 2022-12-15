@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 ## 🚀 About Me
 
-I am a Practicum100 Web Development graduate with a knack for creating modern, responsive web applications using Javascript, HTML and CSS.
+I just finished the Practicum100 Web Development program with over 700 hours of full-stack training! I create modern, responsive web applications using Javascript, HTML and CSS.
 I just finished working on NewsExplorer - a web app for searching and saving articles from around the web.
 I am currently planning my next web dev project so stay tuned. 💻
 
